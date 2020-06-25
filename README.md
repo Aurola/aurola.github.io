@@ -1,1 +1,1 @@
-1.[设计模式-6大设计原则](./architect/designpattern/doc/principle.md)
+1.[设计模式专题](./architect/designpattern/doc/index.md)
