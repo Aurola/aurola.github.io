@@ -10,7 +10,7 @@ SRP原则（Single Responsibility Principle）
 
 
 没有使用SRP原则的IUserInfo接口太糟糕，如下：
-![用户信息维护类图](./img/SRP_1.jpg)
+<img src="./img/SRP_1.jpg" width="70%" height="70%" />
 
 
 
