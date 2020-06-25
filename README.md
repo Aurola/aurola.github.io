@@ -1,1 +1,1 @@
-1.[设计模式-6大设计原则](https://github.com/Aurola/aurola.github.io/blob/master/architect/designpattern/principle.md)
+1.[设计模式-6大设计原则](./architect/designpattern/doc/principle.md)
